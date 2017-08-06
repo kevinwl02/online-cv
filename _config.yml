@@ -13,19 +13,13 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: Kevin Wong
+tagline: iOS Engineer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
-
-
-# Tracker
-analytics: UA-83979019-1
-#Update all the sections by editing the files inside _includes folder.
+email: kevin.wl.02@gmail.com
+website: kevinwl02.github.io #do not add http://
+linkedin: kevin-wong-251a8134
+github: kevinwl02
+twitter: '@kevinwl02'

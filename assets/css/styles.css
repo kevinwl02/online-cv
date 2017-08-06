@@ -106,7 +106,7 @@ p {
   font-size: 14px;
 }
 .sidebar-wrapper .container-block {
-  padding: 30px;
+  padding: 25px;
 }
 .sidebar-wrapper .container-block-title {
   text-transform: uppercase;
@@ -205,10 +205,10 @@ p {
   margin-bottom: 2px;
 }
 .main-wrapper .job-title {
-  color: #3F4650;
-  font-size: 16px;
+  color: #1E4E59;
+  font-size: 20px;
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 20px;
   font-weight: 500;
 }
 .main-wrapper .time {
@@ -219,7 +219,8 @@ p {
 }
 .main-wrapper .company {
   margin-bottom: 10px;
-  color: #97AAC3;
+  color: #444444;
+  font-weight: bold;
 }
 .main-wrapper .project-title {
   font-size: 16px;
